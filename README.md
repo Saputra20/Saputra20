@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Saputra Nugraha
 - 👀 I’m interested in FrontEnd Technology and BackEnd Technology
-- 🌱 I’m currently learning Vue.Js , Next.Js , Express Js and Laravel
+- 🌱 I’m currently learning Vue.Js , Nest.Js , Express Js and Laravel
 - 📫 How to reach me saputra.nugraha46@gmail.com
 
 <!---
